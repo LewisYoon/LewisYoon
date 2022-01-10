@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LewisYoon
 - 👀 I’m interested in front-end development/programming with Python
-- 🌱 I’m currently learning diploma of website development, self learning react js/python 
+- 🌱 I finished my Diploma of Web dev and self learning react js(next js)/python 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - trexhoon1212@gmail.com
 
