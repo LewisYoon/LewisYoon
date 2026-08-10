@@ -1,10 +1,27 @@
-- 👋 Hi, I’m @LewisYoon
-- 👀 I’m interested in front-end development/programming with Python
-- 🌱 I finished my Diploma of Web dev and self learning react js(next js)/python 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me - trexhoon1212@gmail.com
+# Hi, I'm Lewis (Sanghoon) Yoon 👋
 
-<!---
-LewisYoon/LewisYoon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Junior Cloud Engineer / Full Stack Developer based in Sydney, Australia.
+
+I'm a Computer Science graduate building hands-on experience across full-stack development, QA, and cloud infrastructure. I enjoy working on end-to-end projects — from frontend interfaces to backend APIs to automated deployment pipelines — and I'm actively growing my skills in AWS, Docker, and DevOps practices.
+
+## 🔧 What I work with
+
+- **Languages:** JavaScript (ES6+), TypeScript, Python
+- **Frontend:** React, Next.js
+- **Backend:** Node.js, Java, Spring Boot, REST APIs
+- **Cloud & DevOps:** AWS (EC2, S3, IAM), Docker, GitHub Actions, Vercel
+- **Data & Auth:** Supabase
+- **Testing:** E2E & regression testing, debugging, test case design
+
+## 🚀 Featured project
+
+**[WhatIfLotto](https://whatiflotto.com)** — a lottery simulation platform that visualises the statistical reality of gambling and financial opportunity costs. Built with Next.js, React 19, TypeScript, and Supabase, with an automated data pipeline via GitHub Actions and Stripe-powered payments.
+
+## 🌱 Currently
+
+Completing an intensive full-stack engineering bootcamp with _nology (Australia), deepening my skills in Java/Spring Boot and cloud deployment.
+
+## 📫 Get in touch
+
+- Email: lewis_sanghoon_yoon@gmail.com
+- LinkedIn: [lewis-sanghoon-yoon](https://linkedin.com/in/lewis-sanghoon-yoon)
