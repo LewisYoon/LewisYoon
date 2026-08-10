@@ -1,6 +1,6 @@
-# Hi, I'm Lewis (Sanghoon) Yoon 👋
+# Hi, I'm Lewis (Sanghoon) Yoon 
 
-Junior Cloud Engineer / Full Stack Developer based in Sydney, Australia.
+Junior Full Stack Developer / Cloud Engineer based in Sydney, Australia.
 
 I'm a Computer Science graduate building hands-on experience across full-stack development, QA, and cloud infrastructure. I enjoy working on end-to-end projects — from frontend interfaces to backend APIs to automated deployment pipelines — and I'm actively growing my skills in AWS, Docker, and DevOps practices.
 
