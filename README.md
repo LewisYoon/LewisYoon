@@ -4,7 +4,7 @@ Junior Full Stack Developer / Cloud Engineer based in Sydney, Australia.
 
 I'm a Computer Science graduate building hands-on experience across full-stack development, QA, and cloud infrastructure. I enjoy working on end-to-end projects — from frontend interfaces to backend APIs to automated deployment pipelines — and I'm actively growing my skills in AWS, Docker, and DevOps practices.
 
-## 🔧 What I work with
+##  What I work with
 
 - **Languages:** JavaScript (ES6+), TypeScript, Python
 - **Frontend:** React, Next.js
@@ -13,15 +13,15 @@ I'm a Computer Science graduate building hands-on experience across full-stack d
 - **Data & Auth:** Supabase
 - **Testing:** E2E & regression testing, debugging, test case design
 
-## 🚀 Featured project
+##  Featured project
 
-**[WhatIfLotto](https://whatiflotto.com)** — a lottery simulation platform that visualises the statistical reality of gambling and financial opportunity costs. Built with Next.js, React 19, TypeScript, and Supabase, with an automated data pipeline via GitHub Actions and Stripe-powered payments.
+**[WhatIfLotto](https://whatiflotto.com)** — a vibe coded lottery simulation platform that visualises the statistical reality of gambling and financial opportunity costs. Built with Next.js, React 19, TypeScript, and Supabase, with an automated data pipeline via GitHub Actions and Stripe-powered payments.
 
-## 🌱 Currently
+##  Currently
 
 Completing an intensive full-stack engineering bootcamp with _nology (Australia), deepening my skills in Java/Spring Boot and cloud deployment.
 
-## 📫 Get in touch
+##  Get in touch
 
 - Email: lewis_sanghoon_yoon@gmail.com
 - LinkedIn: [lewis-sanghoon-yoon](https://linkedin.com/in/lewis-sanghoon-yoon)
