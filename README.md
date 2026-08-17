@@ -15,7 +15,7 @@ I'm a Computer Science graduate building hands-on experience across full-stack d
 
 ##  Featured project
 
-**[WhatIfLotto](https://whatiflotto.com)** — a vibe coded lottery simulation platform that visualises the statistical reality of gambling and financial opportunity costs. Built with Next.js, React 19, TypeScript, and Supabase, with an automated data pipeline via GitHub Actions and Stripe-powered payments.
+**[WhatIfLotto](https://whatiflotto.com)** — a vibe coded lottery simulation platform that visualises the statistical reality of gambling and financial opportunity costs. Built with Next.js, TypeScript, and Supabase, with an automated data pipeline via GitHub Actions and Stripe-powered payments.
 
 ##  Currently
 
